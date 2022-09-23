@@ -1,1 +1,12 @@
-# how-to-build-a-web-components-app-with-redux-main
+# Build a Web Components app with Redux!
+
+This repo is part of a tutorial [blog post over here](https://writingjavascript.com/how-to-build-a-web-components-app-with-redux).
+
+![](https://writingjavascript.com/how-to-build-a-web-components-app-with-redux_wj-todos_completed.gif)
+
+Start reading by opening index.html.
+
+To try this example out, pull the files, install dependencies and start the demo:
+
+    $ npm ci
+    $ npm start
